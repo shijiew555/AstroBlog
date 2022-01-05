@@ -1,6 +1,6 @@
 # Check it out here!
 
-Deployed build: 
+Deployed build: https://astroblog1.netlify.app/
 
 To run a local version of the app:
 
